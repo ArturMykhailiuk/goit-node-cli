@@ -34,5 +34,5 @@ Note: When updating a contact, only the specified fields (-n, -e, -p) will be up
 - commander: For parsing CLI commands and options.
 - nanoid: For generating unique IDs.
 - Node.js built-in modules:  
-  fs/promises: For file system operations.  
-  path: For handling file paths.
+    - fs/promises: For file system operations.  
+    - path: For handling file paths.
